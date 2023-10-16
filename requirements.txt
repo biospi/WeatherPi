@@ -1,0 +1,4 @@
+numpy==1.24.4
+RPi.GPIO==0.7.1
+ST7789==0.0.4
+weatherhat==0.0.2
